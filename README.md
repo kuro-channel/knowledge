@@ -1,2 +1,2 @@
 # knowledge
-knowledge開発検証用ブランチ
+社内knowledge開発用
