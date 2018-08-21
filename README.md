@@ -1,2 +1,2 @@
 # knowledge
-社内knowledge開発用
+社内knowledge開発
